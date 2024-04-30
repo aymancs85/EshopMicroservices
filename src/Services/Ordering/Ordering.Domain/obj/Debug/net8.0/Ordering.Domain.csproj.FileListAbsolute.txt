@@ -1,0 +1,12 @@
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\bin\Debug\net8.0\Ordering.Domain.deps.json
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\bin\Debug\net8.0\Ordering.Domain.dll
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\bin\Debug\net8.0\Ordering.Domain.pdb
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.csproj.AssemblyReference.cache
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.AssemblyInfoInputs.cache
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.AssemblyInfo.cs
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.dll
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\refint\Ordering.Domain.dll
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.pdb
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\ref\Ordering.Domain.dll

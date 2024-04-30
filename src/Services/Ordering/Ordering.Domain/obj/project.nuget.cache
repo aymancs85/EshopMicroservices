@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BqYre4u0jBRd/EGL5jRpyeFixgNp3aXbrKSXf4Xik5QqsQhNwKm71/fumHhT2m8qOseGN1fs16EjtYNOEj40YA==",
+  "success": true,
+  "projectFilePath": "E:\\Working folder\\run-aspnetcore-microservices-master\\run-aspnetcore-microservices-master\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayman-pc\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Ayman-pc\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Ayman-pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
