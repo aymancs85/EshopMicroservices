@@ -1,0 +1,12 @@
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.deps.json
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.dll
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.pdb
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.AssemblyReference.cache
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfoInputs.cache
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfo.cs
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.dll
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll

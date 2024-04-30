@@ -1,0 +1,12 @@
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.deps.json
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.dll
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.pdb
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.csproj.AssemblyReference.cache
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.AssemblyInfoInputs.cache
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.AssemblyInfo.cs
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.csproj.CoreCompileInputs.cache
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.dll
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\refint\BuildingBlocks.Messaging.dll
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.pdb
+E:\Working folder\run-aspnetcore-microservices-master\run-aspnetcore-microservices-master\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\ref\BuildingBlocks.Messaging.dll
